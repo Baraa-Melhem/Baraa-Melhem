@@ -59,7 +59,7 @@
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Baraa-Melhem&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Baraa-Melhem&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub stats"/>
   <br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Baraa-Melhem&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=Baraa-Melhem" alt="top languages"/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Baraa-Melhem&layout=compact&langs_count=6&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=Baraa-Melhem&hide=inno%20setup,batchfile" alt="top languages"/>
 </div>
 
 <br/>
